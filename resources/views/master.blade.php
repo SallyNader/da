@@ -131,8 +131,8 @@
 						<div class="row">
 							<div class="col-lg-3 col-md-12">
 								<div class="header--logo logo">
-									<a href="#">
-										<img src="{!!asset('assets/images/design/logo-header.png')!!}" alt="" style="width:185px;">
+									<a href="{{url('/')}}">
+										<img src="{!!asset('assets/images/Daleel.png')!!}" alt="" style="width:150px;">
 									</a>
 								</div>
 							</div>

@@ -26,10 +26,10 @@
 							<div class="col-sm-7 col-sm-pull-5 col-xs-12 ">
 								<div class="page_banner--content">
 									<h2 class="page_banner--title">
-										<b>SEO</b> company build from true professionals
+										<b></b> Lead Generation Solution
 									</h2>
 									<p class="page_banner--text">
-										Cras sodales aliquam commodo. Praesent id tincidunt ligula, eget auctor tellus. Sed mattis nibh magna, ut ullamcorper ante mattis non. Donec lobortis eu elitno aliquet. Aenean id ante facilisis, facilisis risus quis, pharetra leo. Donec at nisl.
+										
 									</p>
 								</div>
 							</div>
@@ -38,9 +38,203 @@
 					</div>
 				</div>
 				<!-- /page banner -->
+		
+				<!-- creative skills -->
+				<section class="section">
+					<div class="container">
+						<div class="section--header">
+							<h2 class="section--title">What We Do ?</h2>
+							<p class="section--description">
+								Daleel Lead Generation Company specialises in end-to-end lead generation and strategic client management. <br> our professional systems are purpose built to effectively contact potential clients and manage the entire lead generation process.
+							</p>
+						</div>
+						<div class="section--container" style="margin-left: 150px" >
+							<div class="skills js-skills">
+
+								<div class="row" >
+
+									<!-- item -->
+									<div class="col-md-2 col-sm-4 col-xs-12" style="padding-right: 200px">
+
+										<div class="skills--item">
+											<div class="progressbar" data-value="100%" data-options='{
+											"color": "#2f97d9",
+											"trailColor": "#d5eaf7"
+										}'></div>
+											<h3 class="title -small">Increase your Sales</h3>
+										</div>
+
+									</div>
+									<!-- /item -->
+
+									<!-- item -->
+									<div class="col-md-2 col-sm-4 col-xs-12" style="padding-right: 200px" >
+
+										<div class="skills--item">
+											<div class="progressbar" data-value="100%" data-options='{
+											"color": "#65c099",
+											"trailColor": "#daf0e7"
+										}'></div>
+											<h3 class="title -small">Increase your Customers</h3>
+										</div>
+
+									</div>
+									<!-- /item -->
+
+									<!-- item -->
+									<div class="col-md-2 col-sm-4 col-xs-12" style="padding-right: 200px">
+
+										<div class="skills--item">
+											<div class="progressbar" data-value="100%" data-options='{
+											"color": "#2f97d9",
+											"trailColor": "#d5eaf7"
+										}'></div>
+											<h3 class="title -small">Grow Your Business</h3>
+										</div>
+
+									</div>
+									<!-- /item -->
+
+									<!-- item -->
+									<div class="col-md-2 col-sm-4 col-xs-12">
+
+										<div class="skills--item">
+											<div class="progressbar" data-value="100%" data-options='{
+											"color": "#65c099",
+											"trailColor": "#daf0e7"
+										}'></div>
+											<h3 class="title -small">cost effictive plan</h3>
+										</div>
+
+									</div>
+									<!-- /item -->
+
+									<!-- item -->
+									<!-- <div class="col-md-2 col-sm-4 col-xs-12">
+
+										<div class="skills--item">
+											<div class="progressbar" data-value="45%" data-options='{
+											"color": "#2f97d9",
+											"trailColor": "#d5eaf7"
+										}'></div>
+											<h3 class="title -small">SPEECHES</h3>
+										</div>
+
+									</div> -->
+									<!-- /item -->
+
+									<!-- item -->
+									<!-- <div class="col-md-2 col-sm-4 col-xs-12">
+
+										<div class="skills--item">
+											<div class="progressbar" data-value="67%" data-options='{
+											"color": "#65c099",
+											"trailColor": "#daf0e7"
+										}'></div>
+											<h3 class="title -small">PROJECTS</h3>
+										</div>
+
+									</div> -->
+									<!-- /item -->
+
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- /creative skills -->
+					<!-- trial_banner -->
+				<section class="trial_banner section">
+					<div class="section--inner container">
+						<div class="trial_banner--icon"><i class="bi_medicine-lab-a" style="color: #65c099;"></i></div>
+						<header class="section--header">
+							<h2 class="section--title trial_banner--title" style="font-size: 22px;text-transform: capitalize;" >how The Lead Generation Solution can assist in increasing your sales results ?!</h2>
+							<p class="section--description trial_banner--description">
+								Lead generation is a win-win for both the buyer and seller , if you need to grow your business  lead generation is a way that you can grow your business rather quickly , The key for our successful in lead generation is to brush up on your sales and marketing skills so that the leads you receive convert at a high sales rate.
+							</p>
+						</header>
+						<footer class="trial_banner--footer">
+							<button class="button -silver_tree -large" type="button">
+							 START A 14-DAY FREE TRIAL
+						</button>
+						</footer>
+					</div>
+				</section>
+				<!-- /trial_banner -->
+
+				<!-- Partners -->
+				<section class="partners">
+					<div class="container">
+						<div class="partners--list js-partners owl-carousel">
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/cisco.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/square.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/soundcloud.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/paypal.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/nbc.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/pinterest.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/cisco.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/square.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/soundcloud.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/paypal.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/nbc.svg" alt="">
+								</a>
+							</div>
+							<div class="partners--item">
+								<a href="#">
+									<img src="assets/images/content/partners/pinterest.svg" alt="">
+								</a>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- /Partners -->
+
 
 				<!-- free resources -->
-				<section class="section">
+				<!-- <section class="section">
 					<div class="container">
 
 						<header class="section--header">
@@ -164,173 +358,13 @@
 						</div>
 
 					</div>
-				</section>
+				</section> -->
 				<!-- /free resources -->
 
 				<!-- case_studies -->
-				<section class="section -odd">
-					<div class="container">
-
-						<header class="section--header">
-							<h2 class="section--title">featured CASE STUDIES</h2>
-							<p class="section--description">
-								Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-								<br> pharetra arcu in, euismod nisi. Aenean varius diam sit amet leo.
-							</p>
-						</header>
-
-						<div class="section--container">
-
-							<div class="cards_carousel">
-
-								<div class="cards_carousel--container owl-carousel js-cards_carousel">
-
-									<!-- card -->
-									<div class="card block -border_double">
-										<div class="block--wrap">
-											<figure class="card--image" style="background: #0079c3;">
-												<img src="assets/images/design/colored_icons/file_search-1.svg" alt="" style="width: 90px;">
-											</figure>
-											<div class="card--content">
-												<h3 class="card--title title -small">Browsing anywhere</h3>
-												<p class="card--text text">
-													Duis massa lacus, malesuada id. Sodales scelerisque nisl. Proin molestie purus id gravida malesuada senetopes.
-												</p>
-											</div>
-											<footer class="card--footer">
-												<a href="#" class="button -primary">LEARN MORE</a>
-											</footer>
-										</div>
-									</div>
-									<!-- /card -->
-
-									<!-- card -->
-									<div class="card block -border_double">
-										<div class="block--wrap">
-											<figure class="card--image" style="background: #61d484;">
-												<img src="assets/images/design/colored_icons/layout-1.svg" alt="" style="width: 90px;">
-											</figure>
-											<div class="card--content">
-												<h3 class="card--title title -small">NEW SEO TOOLS</h3>
-												<p class="card--text text">
-													Duis massa lacus, malesuada id. Sodales scelerisque nisl. Proin molestie purus id gravida malesuada senetopes.
-												</p>
-											</div>
-											<footer class="card--footer">
-												<a href="#" class="button -primary">LEARN MORE</a>
-											</footer>
-										</div>
-									</div>
-									<!-- /card -->
-
-									<!-- card -->
-									<div class="card block -border_double">
-										<div class="block--wrap">
-											<figure class="card--image" style="background: #0079c3;">
-												<img src="assets/images/design/colored_icons/dialogue-1.svg" alt="" style="width: 90px;">
-											</figure>
-											<div class="card--content">
-												<h3 class="card--title title -small">NEW SEO TOOLS</h3>
-												<p class="card--text text">
-													Duis massa lacus, malesuada id. Sodales scelerisque nisl. Proin molestie purus id gravida malesuada senetopes.
-												</p>
-											</div>
-											<footer class="card--footer">
-												<a href="#" class="button -primary">LEARN MORE</a>
-											</footer>
-										</div>
-									</div>
-									<!-- /card -->
-
-									<!-- card -->
-									<div class="card block -border_double">
-										<div class="block--wrap">
-											<figure class="card--image" style="background: #0079c3;">
-												<img src="assets/images/design/colored_icons/file_search-1.svg" alt="" style="width: 90px;">
-											</figure>
-											<div class="card--content">
-												<h3 class="card--title title -small">Browsing anywhere</h3>
-												<p class="card--text text">
-													Duis massa lacus, malesuada id. Sodales scelerisque nisl. Proin molestie purus id gravida malesuada senetopes.
-												</p>
-											</div>
-											<footer class="card--footer">
-												<a href="#" class="button -primary">LEARN MORE</a>
-											</footer>
-										</div>
-									</div>
-									<!-- /card -->
-
-									<!-- card -->
-									<div class="card block -border_double">
-										<div class="block--wrap">
-											<figure class="card--image" style="background: #61d484;">
-												<img src="assets/images/design/colored_icons/layout-1.svg" alt="" style="width: 90px;">
-											</figure>
-											<div class="card--content">
-												<h3 class="card--title title -small">NEW SEO TOOLS</h3>
-												<p class="card--text text">
-													Duis massa lacus, malesuada id. Sodales scelerisque nisl. Proin molestie purus id gravida malesuada senetopes.
-												</p>
-											</div>
-											<footer class="card--footer">
-												<a href="#" class="button -primary">LEARN MORE</a>
-											</footer>
-										</div>
-									</div>
-									<!-- /card -->
-
-									<!-- card -->
-									<div class="card block -border_double">
-										<div class="block--wrap">
-											<figure class="card--image" style="background: #0079c3;">
-												<img src="assets/images/design/colored_icons/dialogue-1.svg" alt="" style="width: 90px;">
-											</figure>
-											<div class="card--content">
-												<h3 class="card--title title -small">NEW SEO TOOLS</h3>
-												<p class="card--text text">
-													Duis massa lacus, malesuada id. Sodales scelerisque nisl. Proin molestie purus id gravida malesuada senetopes.
-												</p>
-											</div>
-											<footer class="card--footer">
-												<a href="#" class="button -primary">LEARN MORE</a>
-											</footer>
-										</div>
-									</div>
-									<!-- /card -->
-
-								</div>
-
-							</div>
-
-						</div>
-
-						<footer class="section--footer">
-							<a href="#" class="button -primary -large">See all case studies</a>
-						</footer>
-
-					</div>
-
-				</section>
+				
 				<!-- /case_studies -->
 
-				<!-- trial_banner -->
-				<section class="trial_banner section">
-					<div class="section--inner container">
-						<div class="trial_banner--icon"><i class="bi_medicine-lab-a" style="color: #65c099;"></i></div>
-						<header class="section--header">
-							<h2 class="section--title trial_banner--title">We’re ready to work with you</h2>
-							<p class="section--description trial_banner--description">
-								Integer nec venenatis felis. Nam ullamcorper tortor eget est ultrices, vitae porttitor nisi lacinia. Aliquam pharetra mi a tellus gravida, iaculis tincidunt mauris pharetra. Maecenas lorem velit, finibus non ex velporta.
-							</p>
-						</header>
-						<footer class="trial_banner--footer">
-							<button class="button -silver_tree -large" type="button">
-							 START A 14-DAY FREE TRIAL
-						</button>
-						</footer>
-					</div>
-				</section>
-				<!-- /trial_banner -->
+	
 
 @stop

@@ -59,3 +59,8 @@ Route::get('best-top-price-for-software-and-website-development-design-company-h
 Route::get('best-top-digital-marketing-company-largest-social-online-marketing-agency', function () {
     return view('english.aboutus');
 });
+
+
+Route::get('best-top-digital-marketing-company-largest-social-media-online-marketing-agency', function () {
+    return view('english.contactus');
+});

@@ -87,7 +87,7 @@
 												<i class="bi_interface-arrow-right"></i> You can <a href="http://cayshly.com/pricing"><span style="color: red">upload and sell  </span></a>any product or service through your  <a href="http://cayshly.com/pricing"><span style="color: red"> free account </span></a> 
 											</li>
 											<li class="features_sun--list_item">
-												<i class="bi_interface-arrow-right"></i> you can easily You can <a href="http://cayshly.com/pricing"><span style="color: red">post new  </span></a> or used items Just mention this in your post
+												<i class="bi_interface-arrow-right"></i> you can easily <a href="http://cayshly.com/pricing"><span style="color: red">post new  </span></a> or used items Just mention this in your post
 											</li>
 											<li class="features_sun--list_item">
 												<i class="bi_interface-arrow-right"></i> <a href="http://cayshly.com/pricing"><span style="color: red"> Cayshly </span></a>is a trading network enables its users to  <a href="http://cayshly.com/pricing"><span style="color: red"> share, comment or review  </span></a>any products and services

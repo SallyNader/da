@@ -24,7 +24,7 @@
 							<div class="col-sm-7 col-sm-pull-5 col-xs-12 ">
 								<div class="page_banner--content">
 									<h2 class="page_banner--title">
-										<b>SEO</b> company build from true professionals
+										<b></b> Daleel Marketing Solution
 									</h2>
 									<p class="page_banner--text">
 										Cras sodales aliquam commodo. Praesent id tincidunt ligula, eget auctor tellus. Sed mattis nibh magna, ut ullamcorper ante mattis non. Donec lobortis eu elitno aliquet. Aenean id ante facilisis, facilisis risus quis, pharetra leo. Donec at nisl.
@@ -35,7 +35,454 @@
 						</div>
 					</div>
 				</header>
+				<!-- trial_banner -->
+				<section class="section">
+					<div class="section--inner container">
+						<div class="trial_banner">
+							<div class="trial_banner--icon"><i class="bi_medicine-lab-a" style="color: #65c099;"></i></div>
+							<header class="section--header">
+								<h2 class="section--title trial_banner--title" style="font-size: 32px;text-transform: capitalize;" >who is Daleel Marketing Solutions ?!</h2>
+								<p class="section--description trial_banner--description" style="font-size: 19px;text-transform: capitalize;" >
+									Daleel is digital marketing company which help your business to grow with our advanced marketing solutions
+								</p>
+							</header>
+							<footer class="trial_banner--footer">
+								<a  style="text-transform: capitalize;"  href="{{url('')}}" class="button -green -large" type="button">
+							 see what solution suitable for your business
+						</a>
+							</footer>
+						</div>
+					</div>
+				</section>
+				<!-- /trial_banner -->
+<!-- /creative skills -->
 
+				<section class="section -odd">
+					<div class="container">
+						<div class="banner_steps">
+							<div class="row">
+								<div class="col-md-4 col-md-offset-0 col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2">
+									<figure class="banner_steps--image">
+										<img src="assets/images/design/grouped/rhomb.png" alt="">
+									</figure>
+								</div>
+								<div class="col-md-8 col-xs-12">
+									<h3 class="banner_steps--title title -h2">Our Features</h3>
+									<ul class="list -arrow">
+										<li class="list--item">
+											<i class="list--item_bullet bi_interface-arrow-right"></i> Achieve a <b style="color: #2d8fcc">higher return on investment</b> 
+										</li>
+										<li class="list--item">
+											<i class="list--item_bullet bi_interface-arrow-right"></i> we follow good <b style="color: #2d8fcc">good strategies</b> to achieve your business objectives
+										</li>
+										<li class="list--item">
+											<i class="list--item_bullet bi_interface-arrow-right"></i> we have professional team of graphic designers,
+web developers, creatives specialists in digital advertising
+										</li>
+										<li class="list--item">
+											<i class="list--item_bullet bi_interface-arrow-right"></i> we provide your business with <b style="color: #2d8fcc">cost effictive plans</b>
+										</li>
+										<li class="list--item">
+											<i class="list--item_bullet bi_interface-arrow-right"></i> make you <b style="color: #2d8fcc">catch up with your competitors</b>
+										</li>
+										<li class="list--item">
+											<i class="list--item_bullet bi_interface-arrow-right"></i>we are<b style="color: #2d8fcc"> fast </b>so our digital activity can be tracked and managed to ensure that precious time is not wasted
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+					<!--Strong points-->
+				<section class="section -odd">
+					<div class="container">
+						<header class="section--header">
+							<h2 class="section--title" style="text-transform: capitalize;" >Our Features</h2>
+							<p class="section--description">
+								
+							</p>
+						</header>
+						<div class="section--container">
+							<div class="strong_points">
+								<div class="strong_points--list">
+									<div class="row">
+
+										<!-- item -->
+										<div class="col-md-4 col-sm-6 col-xs-12">
+
+											<div class="strong_points--item">
+												<h3 class="strong_points--item_title">Achieve a higher return on investment</h3>
+												<div class="strong_points--item_content">
+													<div class="strong_points--item_image -circle">
+														<i class="bi_time-calendar"></i>
+													</div>
+													<p class="strong_points--item_text"> Good digital marketing agencies are characterized by being specialists in digital communication, always having in mind to focus on return on investment
+													</p>
+												</div>
+												<div class="footer strong_points--item_footer">
+													<a class="strong_points--item_more" href="#">LEARN MORE</a>
+												</div>
+											</div>
+
+										</div>
+										<!-- /item -->
+
+										<!-- item -->
+										<div class="col-md-4 col-sm-6 col-xs-12">
+
+											<div class="strong_points--item">
+												<h3 class="strong_points--item_title">Team access</h3>
+												<div class="strong_points--item_content">
+													<div class="strong_points--item_image -circle">
+														<i class="bi_user-alt-group"></i>
+													</div>
+													<p class="strong_points--item_text"> Duis massa lacus, malesuada id. sodales scelerisque nisl. Proin molestie purus id gravida.
+													</p>
+												</div>
+												<div class="footer strong_points--item_footer">
+													<a class="strong_points--item_more" href="#">LEARN MORE</a>
+												</div>
+											</div>
+
+										</div>
+										<!-- /item -->
+
+										<!-- item -->
+										<div class="col-md-4 col-sm-6 col-xs-12">
+
+											<div class="strong_points--item">
+												<h3 class="strong_points--item_title">Monthly reports</h3>
+												<div class="strong_points--item_content">
+													<div class="strong_points--item_image -circle">
+														<i class="bi_doc-analytic-line-a"></i>
+													</div>
+													<p class="strong_points--item_text"> Duis massa lacus, malesuada id. sodales scelerisque nisl. Proin molestie purus id gravida.
+													</p>
+												</div>
+												<div class="footer strong_points--item_footer">
+													<a class="strong_points--item_more" href="#">LEARN MORE</a>
+												</div>
+											</div>
+
+										</div>
+										<!-- /item -->
+
+										<!-- item -->
+										<div class="col-md-4 col-sm-6 col-xs-12">
+
+											<div class="strong_points--item">
+												<h3 class="strong_points--item_title">Database search</h3>
+												<div class="strong_points--item_content">
+													<div class="strong_points--item_image -circle">
+														<i class="bi_web-inspect"></i>
+													</div>
+													<p class="strong_points--item_text"> Duis massa lacus, malesuada id. sodales scelerisque nisl. Proin molestie purus id gravida.
+													</p>
+												</div>
+												<div class="footer strong_points--item_footer">
+													<a class="strong_points--item_more" href="#">LEARN MORE</a>
+												</div>
+											</div>
+
+										</div>
+										<!-- /item -->
+
+										<!-- item -->
+										<div class="col-md-4 col-sm-6 col-xs-12">
+
+											<div class="strong_points--item">
+												<h3 class="strong_points--item_title">Live support</h3>
+												<div class="strong_points--item_content">
+													<div class="strong_points--item_image -circle">
+														<i class="bi_com-bubble-line"></i>
+													</div>
+													<p class="strong_points--item_text"> Duis massa lacus, malesuada id. sodales scelerisque nisl. Proin molestie purus id gravida.
+													</p>
+												</div>
+												<div class="footer strong_points--item_footer">
+													<a class="strong_points--item_more" href="#">LEARN MORE</a>
+												</div>
+											</div>
+
+										</div>
+										<!-- /item -->
+
+										<!-- item -->
+										<div class="col-md-4 col-sm-6 col-xs-12">
+
+											<div class="strong_points--item">
+												<h3 class="strong_points--item_title">Flexible settings</h3>
+												<div class="strong_points--item_content">
+													<div class="strong_points--item_image -circle">
+														<i class="bi_setting-gear-a"></i>
+													</div>
+													<p class="strong_points--item_text"> Duis massa lacus, malesuada id. sodales scelerisque nisl. Proin molestie purus id gravida.
+													</p>
+												</div>
+												<div class="footer strong_points--item_footer">
+													<a class="strong_points--item_more" href="#">LEARN MORE</a>
+												</div>
+											</div>
+
+										</div>
+										<!-- /item -->
+
+									</div>
+								</div>
+								<footer class="strong_points--footer">
+									<button class="button -primary -large" type="button">
+									FREE SEO ANALYSIS
+								</button>
+									<button class="button -green -large" type="button">
+									GET IN TOUCH
+								</button>
+								</footer>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- /Strong points -->
+
+<!-- Careers -->
+				<section class="section">
+					<div class="container">
+						<header class="section--header">
+							<h2 class="section--title">Careers</h2>
+							<p class="section--description">
+								Aliquam id aliquet libero. Nulla iaculis purus sed eros gravida feugiat. Suspendisse maximus quis elit
+								<br> sit amet imperdiet. Cras ut turpis pulvinar, pretium erat nec, volutpat sem.
+							</p>
+						</header>
+						<div class="section--container">
+							<div class="careers">
+
+								<div class="row">
+
+									<div class="col-md-6 col-md-offset-1 col-xs-12">
+
+										<h3 class="title -small">Current openings</h3>
+										<div class="vacancies block -border_double js-accordion">
+											<div class="block--wrap">
+
+												<div class="vacancies--item">
+													<h4 class="vacancies--item_title">who is Daleel Marketing Solutions ?!</h4>
+													<div class="vacancies--item_content">
+														<dl>
+															<!-- <dt>Daleel is</dt> -->
+															<dd>
+																<ul>
+																	<li><dt>Daleel is digital marketing agency</dt></li>
+																	<li>Id nec lorem. Quisque tincidunt commodo massa, ac dictum</li>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<dl>
+															<dt>Requirements</dt>
+															<dd>
+																<ul>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<p>Please, send your CV to <a href="mailto:careers@seocompany.com">careers@seocompany.com</a></p>
+													</div>
+												</div>
+
+												<div class="vacancies--item">
+													<h4 class="vacancies--item_title">Senior SEO Analyst</h4>
+													<div class="vacancies--item_content">
+														<dl>
+															<dt>Job Description</dt>
+															<dd>
+																<ul>
+																	<li>Fusce non dolor ac urna feugiat ullamcorper;</li>
+																	<li>Id nec lorem. Quisque tincidunt commodo massa, ac dictum</li>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<dl>
+															<dt>Requirements</dt>
+															<dd>
+																<ul>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<p>Please, send your CV to <a href="mailto:careers@seocompany.com">careers@seocompany.com</a></p>
+													</div>
+												</div>
+
+												<div class="vacancies--item">
+													<h4 class="vacancies--item_title">Junior Product Designer</h4>
+													<div class="vacancies--item_content">
+														<dl>
+															<dt>Job Description</dt>
+															<dd>
+																<ul>
+																	<li>Fusce non dolor ac urna feugiat ullamcorper;</li>
+																	<li>Id nec lorem. Quisque tincidunt commodo massa, ac dictum</li>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<dl>
+															<dt>Requirements</dt>
+															<dd>
+																<ul>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<p>Please, send your CV to <a href="mailto:careers@seocompany.com">careers@seocompany.com</a></p>
+													</div>
+												</div>
+
+												<div class="vacancies--item">
+													<h4 class="vacancies--item_title">Business Development Executive</h4>
+													<div class="vacancies--item_content">
+														<dl>
+															<dt>Job Description</dt>
+															<dd>
+																<ul>
+																	<li>Fusce non dolor ac urna feugiat ullamcorper;</li>
+																	<li>Id nec lorem. Quisque tincidunt commodo massa, ac dictum</li>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<dl>
+															<dt>Requirements</dt>
+															<dd>
+																<ul>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<p>Please, send your CV to <a href="mailto:careers@seocompany.com">careers@seocompany.com</a></p>
+													</div>
+												</div>
+
+												<div class="vacancies--item">
+													<h4 class="vacancies--item_title">PR &amp; Marketing Specialist</h4>
+													<div class="vacancies--item_content">
+														<dl>
+															<dt>Job Description</dt>
+															<dd>
+																<ul>
+																	<li>Fusce non dolor ac urna feugiat ullamcorper;</li>
+																	<li>Id nec lorem. Quisque tincidunt commodo massa, ac dictum</li>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<dl>
+															<dt>Requirements</dt>
+															<dd>
+																<ul>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<p>Please, send your CV to <a href="mailto:careers@seocompany.com">careers@seocompany.com</a></p>
+													</div>
+												</div>
+
+												<div class="vacancies--item">
+													<h4 class="vacancies--item_title">Senior Product Designer</h4>
+													<div class="vacancies--item_content">
+														<dl>
+															<dt>Job Description</dt>
+															<dd>
+																<ul>
+																	<li>Fusce non dolor ac urna feugiat ullamcorper;</li>
+																	<li>Id nec lorem. Quisque tincidunt commodo massa, ac dictum</li>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<dl>
+															<dt>Requirements</dt>
+															<dd>
+																<ul>
+																	<li>Lacus ornare id. In porttitor nec mi eget posuere.</li>
+																	<li>Vestibulum fringilla hendrerit sapien vitae elementum.</li>
+																	<li>Nunc vehicula velit quis accumsan pharetra.</li>
+																</ul>
+															</dd>
+														</dl>
+														<p>Please, send your CV to <a href="mailto:careers@seocompany.com">careers@seocompany.com</a></p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+									</div>
+								<!-- 	<div class="col-md-5 col-xs-12">
+
+										<h3 class="title -small">What do our team members say?</h3>
+										<ul class="team_quotes">
+											<li class="team_quotes--item text">
+												<i class="fa fa-quote-left"></i>
+												<p>
+													Morbi consequat et libero id porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque blandit euismod justo ac pellentesque. Morbi et nibh eleifend, efficit risus vitae, tempus ipsum. Vestibulum egestas vel felis nec pulvinar. In nec
+													purus sed orci lobortis consectetur no a eros.
+												</p>
+												<strong class="team_quotes--item_author">– John Holland,<span> Creative Director</span></strong>
+											</li>
+											<li class="team_quotes--item text">
+												<i class="fa fa-quote-left"></i>
+												<p>
+													Maecenas facilisis purus at porta placerat. Fusce in orci fringilla, bibendum dolor eget, vulputate lacus. Vivamus consequat sed nibh quis finibus. Maecenas sed justo sed lorem facilisis dignissim id eu odio. Nam porta lorem facilisis nisl tempus aliquam.
+													Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi id ex imperdiet, vestibulum turpis nec, tempor dolor. Nullam vulputate imperdiet felis, eget consect etur nisl sollicitudin in. Phasellus cursus turpis arcu, sit amet malesuada
+													augue pellentesque in.
+												</p>
+												<strong class="team_quotes--item_author">– Amanda Brave, <span>SEO Manager</span></strong>
+											</li>
+											<li class="team_quotes--item text">
+												<i class="fa fa-quote-left"></i>
+												<p>
+													Ut nisl risus, tincidunt maximus hendrerit quis, accumsan se eros. Vivamus pulvinar tellus ligula, et elementum ante lobo rtis nec. Pellentesque mollis vitae elit at commodo. Donec ut eros ac elit eleifend eleifend sit amet in sem. Mauris maximu rutrum
+													congue. Etiam augue leo, blandit id scelerisque portti tor, blandit eget justo. Integer in quam sit amet lacus molestie pretium non at magna. Fusce iaculis augue at eros venenatis ullamcorper. Sed quis diam vel ante lobortis ultricies.
+												</p>
+												<strong class="team_quotes--item_author">– Brad Bukovsky, <span>Operational Officer</span></strong>
+											</li>
+										</ul>
+									</div> -->
+
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- /Careers -->
 				<div class="simple_cta">
 					<div class="container">
 						<div class="simple_cta--container">
@@ -225,26 +672,7 @@
 				</section>
 				<!-- /twitter_feed -->
 
-				<!-- trial_banner -->
-				<section class="section">
-					<div class="section--inner container">
-						<div class="trial_banner">
-							<div class="trial_banner--icon"><i class="bi_medicine-lab-a" style="color: #65c099;"></i></div>
-							<header class="section--header">
-								<h2 class="section--title trial_banner--title">We’re ready to work with you</h2>
-								<p class="section--description trial_banner--description">
-									Integer nec venenatis felis. Nam ullamcorper tortor eget est ultrices, vitae porttitor nisi lacinia. Aliquam pharetra mi a tellus gravida, iaculis tincidunt mauris pharetra. Maecenas lorem velit, finibus non ex velporta.
-								</p>
-							</header>
-							<footer class="trial_banner--footer">
-								<button class="button -silver_tree -large" type="button">
-								 START A 14-DAY FREE TRIAL
-							</button>
-							</footer>
-						</div>
-					</div>
-				</section>
-				<!-- /trial_banner -->
+				
 				<section class="partners">
 					<div class="container">
 						<div class="partners--list js-partners owl-carousel owl-loaded owl-drag">
