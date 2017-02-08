@@ -64,3 +64,10 @@ Route::get('best-top-digital-marketing-company-largest-social-online-marketing-a
 Route::get('best-top-digital-marketing-company-largest-social-media-online-marketing-agency', function () {
     return view('english.contactus');
 });
+
+Route::post('send','MailController@send');
+
+
+Route::get('data-store-in-best-top-digital-marketing-company-largest-social-media-online-marketing-agency', function () {
+    return view('english.datastore');
+});

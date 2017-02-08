@@ -19,7 +19,7 @@
 
 							<div class="col-sm-5 col-sm-push-7 col-sm-offset-0 col-xs-8 col-xs-offset-2">
 								<div class="page_banner--image">
-									<img src="assets/images/design/page_banner/page_banner-1.png" style="width: 371px" alt="">
+									<img src="assets/images/design/page_banner/page_banner-1.png" style="width: 371px" alt="best top digital marketing company largest social online marketing agency -digital marketing solutions agency for best online shoe buy jewelry fabric clothing glasses store shopping">
 								</div>
 							</div>
 
@@ -38,7 +38,7 @@
 					</div>
 				</header>
 <!-- Main Slider -->
-				<section class="main_slider -under_header">
+				<section class="main_slider -under_header" style="margin-top: 1px" >
 					<div class="slide_video -parallax" style="background:url(assets/images/design/main-slider6_bg.jpg);">
 						<div class="container">
 							<div class="row">
@@ -73,7 +73,7 @@
 							<div class="row">
 								<div class="col-md-4 col-md-push-4 col-md-offset-0 col-xs-6 col-xs-offset-3">
 									<div class="features_sun--picture">
-										<img src="assets/images/design/grouped/sun.png" alt="">
+										<img src="assets/images/design/grouped/sun.png" alt="best online clothing stores-best online furniture stores-best online stores-best online shoe store-best buy store online shopping-best online jewelry stores-best online fabric store">
 									</div>
 								</div>
 
@@ -131,7 +131,7 @@
 									</header>
 									<div class="slide_free_seo--wrap">
 										<div class="slide_free_seo--picture">
-											<img src="assets/images/design/colored_icons/chart_presentation-1.svg" alt="" width="200">
+											<img src="assets/images/design/colored_icons/chart_presentation-1.svg" alt="best online clothing stores for men and women - glasses store-dress stores-best online comic book store" width="200">
 										</div>
 										<div class="slide_free_seo--content">
 											<ul class="slide_free_seo--list">
@@ -193,7 +193,7 @@
 									<div class="reviews--item">
 										<figure class="reviews--item_image block -border_double -circle -center">
 											<div class="block--wrap">
-												<img src="assets/images/content/reviews/1.jpg" alt="">
+												<img src="assets/images/content/reviews/1.jpg" alt="best online shoe buy jewelry fabric clothing glasses store shopping">
 											</div>
 										</figure>
 										<div class="reviews--item_content">
@@ -212,7 +212,7 @@
 									<div class="reviews--item">
 										<figure class="reviews--item_image block -border_double -circle -center">
 											<div class="block--wrap">
-												<img src="assets/images/content/reviews/2.jpg" alt="">
+												<img src="assets/images/content/reviews/2.jpg" alt="search engine marketing company-companies with successful marketing campaigns">
 											</div>
 										</figure>
 										<div class="reviews--item_content">
@@ -231,7 +231,7 @@
 									<div class="reviews--item">
 										<figure class="reviews--item_image block -border_double -circle -center">
 											<div class="block--wrap">
-												<img src="assets/images/content/reviews/3.jpg" alt="">
+												<img src="assets/images/content/reviews/3.jpg" alt="best top social media management services company pricing manage multiple social media accounts">
 											</div>
 										</figure>
 										<div class="reviews--item_content">

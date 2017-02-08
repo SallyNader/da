@@ -60,7 +60,7 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/web.png" alt="" width="84">
+														<img src="assets/images/design/web.png" alt="daleel website design and development and content agency pricing" width="84">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;">Web Design and development</h3>
 													<p class="services--item_text">
@@ -78,7 +78,7 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/mobile.png" alt="" width="150">
+														<img src="assets/images/design/mobile.png" alt="mobile app marketing advertising company" width="150">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;">Mobile app</h3>
 													<p class="services--item_text">
@@ -96,7 +96,7 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/seo.jpg" alt="" width="100">
+														<img src="assets/images/design/seo.jpg" alt="best local white hat search engine optimization company" width="100">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;">search engine optimization</h3>
 													<p class="services--item_text">
@@ -114,13 +114,13 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/colored_icons/cloud-3.svg" alt="" width="74">
+														<img src="assets/images/design/colored_icons/cloud-3.svg" alt="daleel digital marketing solutions agency" width="74">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;">data store</h3>
 													<p class="services--item_text">
 													</p>
 													<footer class="services--item_footer">
-														<a href="{{url('')}}" class="button -primary">LEARN MORE</a>
+														<a href="{{url('data-store-in-best-top-digital-marketing-company-largest-social-media-online-marketing-agency')}}" class="button -primary">LEARN MORE</a>
 													</footer>
 												</div>
 											</div>
@@ -131,7 +131,7 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/social.jpg" alt="" width="150">
+														<img src="assets/images/design/social.jpg" alt="digital marketing solutions agency for manage multiple social media accounts service" width="150">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;">social media management</h3>
 													<p class="services--item_text">
@@ -149,7 +149,7 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/onlinemarketing.png" alt="" width="200">
+														<img src="assets/images/design/onlinemarketing.png" alt="digital marketing solutions agency for lead generation ideas" width="200">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;">lead generation</h3>
 													<p class="services--item_text">
@@ -167,7 +167,7 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/onlinestore.jpg" alt="" width="130">
+														<img src="assets/images/design/onlinestore.jpg" alt="digital marketing solutions agency for best online shoe buy jewelry fabric clothing glasses store shopping" width="130">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;">online store</h3>
 													<p class="services--item_text">
@@ -185,7 +185,7 @@
 											<div class="services--item">
 												<div class="services--item_wrap">
 													<div class="services--item_image">
-														<img src="assets/images/design/leads.png" alt="" width="150">
+														<img src="assets/images/design/leads.png" alt="online marketing company for facebook marketing solutions for google adwords display network ad sizes and creative online marketing campaigns" width="150">
 													</div>
 													<h3 class="services--item_title" style="text-transform: capitalize;" >online marketing</h3>
 													<p class="services--item_text">
@@ -287,7 +287,7 @@
 							</p>
 						</header>
 						<footer class="trial_banner--footer">
-							<a  style="text-transform: capitalize;"  href="{{url('')}}" class="button -green -large" type="button">
+							<a  style="text-transform: capitalize;"  href="{{url('best-top-digital-marketing-company-largest-social-media-online-marketing-agency')}}" class="button -green -large" type="button">
 							 see what solution suitable for your business
 						</a>
 						</footer>
@@ -308,7 +308,7 @@
 							<div class="row">
 								<div class="col-md-4 col-md-push-4 col-md-offset-0 col-xs-6 col-xs-offset-3">
 									<div class="features_sun--picture">
-										<img src="assets/images/design/grouped/sun.png" alt="">
+										<img src="assets/images/design/grouped/sun.png" alt="best top digital marketing company largest social online marketing agency">
 									</div>
 								</div>
 
@@ -387,7 +387,7 @@ web developers, creatives, specialists in digital advertising
 									</header>
 									<div class="slide_free_seo--wrap">
 										<div class="slide_free_seo--picture">
-											<img src="assets/images/design/colored_icons/chart_presentation-1.svg" alt="" width="100">
+											<img src="assets/images/design/colored_icons/chart_presentation-1.svg" alt="digital marketing solutions agency for best online shoe buy jewelry fabric clothing glasses store shopping" width="100">
 										</div>
 										<div class="slide_free_seo--content">
 											<ul class="slide_free_seo--list">
@@ -494,7 +494,7 @@ web developers, creatives, specialists in digital advertising
 										<div class="col-md-6 col-md-offset-0 col-xs-10 col-xs-offset-1">
 											<div class="testimonials--item">
 												<figure class="testimonials--item_image -square">
-													<img src="assets/images/content/testimonials/1.jpg" alt="">
+													<img src="assets/images/content/testimonials/1.jpg" alt="best top mobile app marketing advertising company top ios app development company">
 												</figure>
 												<div class="testimonials--item_content">
 													<p class="testimonials--item_text">You don’t need a lot of friends or people around you. You need amazing people who do for you as you do.</p>
@@ -512,7 +512,7 @@ web developers, creatives, specialists in digital advertising
 										<div class="col-md-6 col-md-offset-0 col-xs-10 col-xs-offset-1">
 											<div class="testimonials--item">
 												<figure class="testimonials--item_image -square">
-													<img src="assets/images/content/testimonials/2.jpg" alt="">
+													<img src="assets/images/content/testimonials/2.jpg" alt="best top digital marketing company largest social online marketing agency">
 												</figure>
 												<div class="testimonials--item_content">
 													<p class="testimonials--item_text">It’s simple really, a lot of average friends will leave you feeling alone when you need to feel surrounded.</p>
@@ -530,7 +530,7 @@ web developers, creatives, specialists in digital advertising
 										<div class="col-md-6 col-md-offset-0 col-xs-10 col-xs-offset-1">
 											<div class="testimonials--item">
 												<figure class="testimonials--item_image -square">
-													<img src="assets/images/content/testimonials/3.jpg" alt="">
+													<img src="assets/images/content/testimonials/3.jpg" alt="pay per click marketing management company and search engine marketing company">
 												</figure>
 												<div class="testimonials--item_content">
 													<p class="testimonials--item_text">Even if it kills your relationships. Even if it destroys ideas. Even if you lose your friends. Even if it means.</p>
@@ -548,7 +548,7 @@ web developers, creatives, specialists in digital advertising
 										<div class="col-md-6 col-md-offset-0 col-xs-10 col-xs-offset-1">
 											<div class="testimonials--item">
 												<figure class="testimonials--item_image -square">
-													<img src="assets/images/content/testimonials/4.jpg" alt="">
+													<img src="assets/images/content/testimonials/4.jpg" alt="social media management company services pricing and manage multiple social media accounts">
 												</figure>
 												<div class="testimonials--item_content">
 													<p class="testimonials--item_text">You don’t need a lot of friends or people around you. You need amazing people who do for you as you do for.</p>

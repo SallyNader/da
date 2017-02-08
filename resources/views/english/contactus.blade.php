@@ -17,9 +17,9 @@
 				<div class="section -odd">
 					<div class="container">
 						<div class="contact_us -page">
-							<header class="contact_us--header">
-								<h1 class="contact_us--title title -h1">Get in touch</h1>
-								<p class="contact_us--description text -medium">Don’t hesitate to drop us a line. We’d love to hear from you!</p>
+							<header class="contact_us--header" style="text-transform: capitalize;">
+								<h1 class="contact_us--title title -h1" style="font-size: 32px;text-transform: capitalize;">Get in touch</h1>
+								<p class="contact_us--description text -medium"> </p>
 							</header>
 
 							<div class="row">
@@ -36,7 +36,7 @@
 												<i class="bi_com-phone"></i>
 											</span>
 
-												<strong>0 (855) 233-5385</strong> Monday - Friday, 8am - 7pm
+												<strong>2 01026639985</strong> Sunday - thursday, 9am - 6pm
 											</li>
 
 											<li class="contacts--item">
@@ -44,7 +44,7 @@
 												<i class="bi_com-email"></i>
 											</span>
 
-												<strong><a href="mailto:info@seocompany.com">info@seocompany.com</a></strong> Drop us a line anytime!
+												<strong><a href="mailto:info@seocompany.com">support@daleel.com.eg</a></strong> Drop us a line anytime!
 
 											</li>
 
@@ -53,7 +53,7 @@
 												<i class="bi_location-alt-pin"></i>
 											</span>
 
-												<strong>425 1st Street, San Francisco, CA, United Stated</strong> Monday - Friday, 9am - 6pm
+												<strong>2 Khaled Ibn El Waleed Infront of Radio Shack store- Second Floor - Apartment 22 ,Sheraton Heliopolis, Cairo, Egypt</strong> Sunday - thursday, 9am - 6pm
 											</li>
 
 										</ul>
@@ -66,7 +66,10 @@
 
 								<div class="col-md-8 col-md-pull-4">
 
-									<form action="#" class="form send-form">
+									<form action="{{url('send')}}" method="post" class="form send-form">
+							
+
+                                                  {{ csrf_field() }}
 										<div class="form--wrap">
 											<fieldset>
 
@@ -76,7 +79,17 @@
 													<!-- col -->
 													<div class="form--col">
 														<div class="field -wide">
-															<input type="text" placeholder="Name" name="fields[name]" required="">
+															<input type="text" placeholder="Name" name="name" value="{{old('name')}}" >
+															<span class="field--focus_border"></span>
+
+														</div>
+													</div>
+													<!-- /col -->
+
+													<!-- col -->
+													<div class="form--col">
+														<div class="field -wide">
+															<input type="text" placeholder="Last Name" value="{{old('last')}}" name="last">
 															<span class="field--focus_border"></span>
 														</div>
 													</div>
@@ -85,16 +98,7 @@
 													<!-- col -->
 													<div class="form--col">
 														<div class="field -wide">
-															<input type="text" placeholder="Last Name" name="fields[lastName]">
-															<span class="field--focus_border"></span>
-														</div>
-													</div>
-													<!-- /col -->
-
-													<!-- col -->
-													<div class="form--col">
-														<div class="field -wide">
-															<input type="text" placeholder="Company" name="fields[company]">
+															<input type="text" placeholder="Company" value="{{old('company')}}" name="company">
 															<span class="field--focus_border"></span>
 														</div>
 													</div>
@@ -109,7 +113,7 @@
 													<!-- col -->
 													<div class="form--col">
 														<div class="field -wide">
-															<input type="email" placeholder="Email" name="fields[email]" required="">
+															<input type="email" placeholder="Email" value="{{old('email')}}" name="email" >
 															<span class="field--focus_border"></span>
 														</div>
 													</div>
@@ -118,7 +122,7 @@
 													<!-- col -->
 													<div class="form--col">
 														<div class="field -wide">
-															<input type="text" placeholder="Phone Number" name="fields[phone]">
+															<input type="text" placeholder="Phone Number" value="{{old('phone')}}" name="phone">
 															<span class="field--focus_border"></span>
 														</div>
 													</div>
@@ -127,7 +131,7 @@
 													<!-- col -->
 													<div class="form--col">
 														<div class="field -wide">
-															<input type="text" placeholder="Website URL" name="fields[website]">
+															<input type="text" placeholder="Website URL" value="{{old('website')}}" name="website">
 															<span class="field--focus_border"></span>
 														</div>
 													</div>
@@ -140,7 +144,7 @@
 												<div class="form--row">
 													<div class="form--col">
 														<div class="field -wide">
-															<textarea rows="6" placeholder="Your message..." name="fields[message]" required=""></textarea>
+															<textarea rows="6" placeholder="Your message..." name="message" value="{{old('message')}}" ></textarea>
 															<span class="field--focus_border"></span>
 														</div>
 													</div>
@@ -149,10 +153,10 @@
 
 											</fieldset>
 											<footer class="form--footer">
-												<button class="form--submit button -primary -large" type="submit">SEND message</button>
+												<button type="submit" class="form--submit button -primary -large"   >send message</button>
 											</footer>
 										</div>
-										<div class="msg">Thank you. We have received your message.</div>
+								
 									</form>
 
 								</div>

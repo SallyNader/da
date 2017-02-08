@@ -17,7 +17,7 @@
 					<div class="container">
 						<div class="col-md-12 col-md-offset-0 col-xs-8 col-xs-offset-2">
 							<div class="page_banner--image">
-								<img src="assets/images/design/page_banner/page_banner-3.png" style="width: 310px" alt="">
+								<img src="assets/images/design/page_banner/page_banner-3.png" style="width: 310px" alt="social media marketing company for mobile app marketing advertising">
 							</div>
 						</div>
 
@@ -158,7 +158,7 @@ Apps usually store their data locally on mobile devices, in contrast to websites
 										<div class="card block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #264f65;">
-													<img src="assets/images/design/colored_icons/file_search-1.svg" alt="" style="width: 90px;">
+													<img src="assets/images/design/colored_icons/file_search-1.svg" alt="mobile app marketing advertising company" style="width: 90px;">
 												</figure>
 												<div class="card--content">
 													<h3 class="card--title title -small" style="text-transform: capitalize;" >Creative Design</h3>
@@ -181,12 +181,12 @@ Apps usually store their data locally on mobile devices, in contrast to websites
 										<div class="card block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #aad627;">
-													<img src="assets/images/design/colored_icons/layout-1.svg" alt="" style="width: 90px;">
+													<img src="assets/images/design/colored_icons/layout-1.svg" alt="daleel digital marketing solutions agency for mobile app advertising and ios app development company" style="width: 90px;">
 												</figure>
 												<div class="card--content">
 													<h3 class="card--title title -small" style="text-transform: capitalize;">High Performance and speed</h3>
 													<p class="card--text text">
-														our web developers provide high performance that reduce your error rates and load times
+														our mobile developers provide high performance that reduce your error rates and load times
 													</p>
 												</div>
 												<!-- <footer class="card--footer">
@@ -204,7 +204,7 @@ Apps usually store their data locally on mobile devices, in contrast to websites
 										<div class="card block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #4aa3e0;">
-													<img src="assets/images/design/colored_icons/dialogue-1.svg" alt="" style="width: 90px;">
+													<img src="assets/images/design/colored_icons/dialogue-1.svg" alt="daleel digital marketing solutions agency mobile app advertising and ios and android app development company" style="width: 90px;">
 												</figure>
 												<div class="card--content">
 													<h3 class="card--title title -small" style="text-transform: capitalize;">Security</h3>

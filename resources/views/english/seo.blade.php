@@ -20,7 +20,7 @@
 
 							<div class="col-sm-5 col-sm-push-7 col-sm-offset-0 col-xs-8 col-xs-offset-2">
 								<div class="page_banner--image">
-									<img src="assets/images/design/page_banner/page_banner-2.png" style="width: 371px" alt="">
+									<img src="assets/images/design/page_banner/page_banner-2.png" style="width: 371px" alt="best professional local white hat search engine optimization company-white hat seo company-top 10 organic search engine optimization companies services">
 								</div>
 							</div>
 
@@ -49,7 +49,7 @@
 						<div class="row">
 							<div class="col-md-4 col-md-offset-1 col-sm-4 col-sm-offset-0 col-xs-8 col-xs-offset-2">
 								<figure class="case_intro--image">
-									<img src="assets/images/content/case_study/monitor.png" alt="">
+									<img src="assets/images/content/case_study/monitor.png" alt="professional search engine optimization company - organic search engine optimization seo company-local seo company pricing-multilingual seo company">
 								</figure>
 							</div>
 							<div class="col-md-6 col-md-offset-1 col-sm-8 col-sm-offset-0 col-xs-12">

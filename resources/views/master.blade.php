@@ -34,8 +34,8 @@
 									Language
 								</button>
 									<ul class="select_language--list">
-										<li><a href="#">English</a></li>
-										<li><a href="#">Espanol</a></li>
+										<li><a href="{{url('/')}}">English</a></li>
+										<li><a href="">عربي</a></li>
 									</ul>
 								</div>
 								<!-- /select language -->
@@ -47,52 +47,52 @@
 										<ul>
 
 											<li>
-												<a href="#">
+												<a href="https://www.facebook.com/Daleel.DM/?fref=ts">
 													<i class="fa fa-facebook"></i>
 												</a>
 											</li>
 
 											<li>
-												<a href="#">
+												<a href="https://twitter.com/DaleelSolutions">
 													<i class="fa fa-twitter"></i>
 												</a>
 											</li>
 
 											<li>
-												<a href="#">
+												<a href="https://plus.google.com/+DaleelEg-Marketing">
 													<i class="fa fa-google-plus"></i>
 												</a>
 											</li>
 
-											<li>
+											<!-- <li>
 												<a href="#">
 													<i class="fa fa-pinterest"></i>
 												</a>
-											</li>
+											</li> -->
 
-											<li>
+											<!-- <li>
 												<a href="#">
 													<i class="fa fa-instagram"></i>
 												</a>
-											</li>
+											</li> -->
 
 											<li>
-												<a href="#">
+												<a href="https://www.linkedin.com/company-beta/3505747/">
 													<i class="fa fa-linkedin"></i>
 												</a>
 											</li>
 
-											<li>
+											<!-- <li>
 												<a href="#">
 													<i class="fa fa-youtube-play"></i>
 												</a>
-											</li>
+											</li> -->
 
-											<li>
+											<!-- <li>
 												<a href="#">
 													<i class="fa fa-rss"></i>
 												</a>
-											</li>
+											</li> -->
 
 										</ul>
 									</dd>
@@ -107,13 +107,13 @@
 									<li class="topbar_contacts--item">
 										<span class="contact_phone">
 										<i class="bi_com-phone"></i>
-										0 (855) 233-5385
+										2 01026639985
 									</span>
 									</li>
 									<li class="topbar_contacts--item">
 										<span class="contact_email">
 										<i class="bi_com-email"></i>
-										info@seocompany.com
+										support@daleel.com.eg
 									</span>
 									</li>
 								</ul>
@@ -132,16 +132,22 @@
 							<div class="col-lg-3 col-md-12">
 								<div class="header--logo logo">
 									<a href="{{url('/')}}">
-										<img src="{!!asset('assets/images/Daleel.png')!!}" alt="" style="width:150px;">
+										<img src="{!!asset('assets/images/Daleel.png')!!}" alt="daleel digital marketing solutions agency" style="width:150px;">
 									</a>
 								</div>
 							</div>
 							<div class="col-lg-9 col-md-12 visible-md-block visible-lg-block">
-								<div class="header--right">
+								<div class="header--right" style="margin-right:120px" >
 									<nav class="header_nav">
 										<ul class="menu">
+										<li class="menu-item">
+												<a href="{{url('/')}}">Home</a>
+
+											
+
+											</li>
 											<li class="menu-item -mega">
-												<a href="{{url('best-top-digital-marketing-company-largest-social-online-marketing-agency')}}">ABOUT US</a>
+												<a href="{{url('best-top-digital-marketing-company-largest-social-online-marketing-agency')}}">About Us</a>
 
 												<!-- mega_nav -->
 												
@@ -266,10 +272,10 @@
 											</li> -->
 
 												<li class="menu-item">
-												<a href="">SERVICES</a>
+												<a href="">Services</a>
 
 												<!-- submenu -->
-												<ul class="sub-menu"  style="width: 150px">
+												<ul class="sub-menu"  style="width: 250px">
 													<li class="menu-item">
 														<a href="{{url('best-top-price-for-software-and-website-development-design-company-hosting-pricing-digital-web-design-agency')}}">Web Development And Design</a>
 													</li>
@@ -311,7 +317,7 @@
 													</li>
 
 													<li class="menu-item">
-														<a href="">Data Store</a>
+														<a href="{{url('data-store-in-best-top-digital-marketing-company-largest-social-media-online-marketing-agency')}}">Data Store</a>
 													</li>
 													<li class="menu-item">
 														<a href="{{url('best-top-lead-generation-marketing-advertising-company-twitter-ads-ideas')}}">Leads Generation</a>
@@ -320,45 +326,9 @@
 												<!-- /submenu -->
 
 											</li>
-											<li class="menu-item">
-												<a href="">CAREERS</a>
-
-												<!-- submenu -->
-												<!-- <ul class="sub-menu">
-													<li class="menu-item">
-														<a href="careers.html">Page 1</a>
-													</li>
-													<li class="menu-item">
-														<a href="careers.html">Page 2</a>
-													</li>
-													<li class="menu-item menu-item-has-children">
-														<a href="careers.html">Page 3</a>
-														<ul class="sub-menu">
-															<li class="menu-item">
-																<a href="careers.html">Page 1</a>
-															</li>
-															<li class="menu-item menu-item-has-children">
-																<a href="careers.html">Page 2</a>
-																<ul class="sub-menu">
-																	<li class="menu-item">
-																		<a href="careers.html">Page 1</a>
-																	</li>
-																	<li class="menu-item">
-																		<a href="careers.html">Page 2</a>
-																	</li>
-																</ul>
-															</li>
-														</ul>
-													</li>
-													<li class="menu-item">
-														<a href="careers.html">Page 4</a>
-													</li>
-												</ul> -->
-												<!-- /submenu -->
-
-											</li>
+											
 											<li class="menu-item -mega">
-												<a href="">CONTACT US</a>
+												<a href="{{url('best-top-digital-marketing-company-largest-social-media-online-marketing-agency')}}">Contact Us</a>
 											</li>
 										</ul>
 
@@ -371,7 +341,7 @@
 										</fieldset>
 									</form> -->
 
-									<a href="quote.html"><button class="button -primary">FREE SEO ANALYSIS</button></a>
+									<!-- <a href="quote.html"><button class="button -primary">FREE SEO ANALYSIS</button></a> -->
 								</div>
 							</div>
 						</div>
@@ -390,17 +360,23 @@
 						<div class="row">
 							<div class="col-lg-3 col-md-12">
 								<div class="header--logo logo">
-									<a href="#">
-										<img src="{!!asset('assets/images/design/logo-header.png')!!}" alt="" style="width:185px;">
+									<a href="{{url('/')}}">
+										<img src="{!!asset('assets/images/Daleel.png')!!}" alt="daleel digital marketing solutions agency" style="width:150px;">
 									</a>
 								</div>
 							</div>
 							<div class="col-lg-9 col-md-12 visible-md-block visible-lg-block">
-								<div class="header--right">
+								<div class="header--right" style="margin-right:160px">
 									<nav class="header_nav">
-										<ul class="menu">
+												<ul class="menu">
+										<li class="menu-item">
+												<a href="{{url('/')}}">Home</a>
+
+											
+
+											</li>
 											<li class="menu-item -mega">
-												<a href="{{url('best-top-digital-marketing-company-largest-social-online-marketing-agency')}}">ABOUT US</a>
+												<a href="{{url('best-top-digital-marketing-company-largest-social-online-marketing-agency')}}">About Us</a>
 
 												<!-- mega_nav -->
 												
@@ -525,21 +501,24 @@
 											</li> -->
 
 												<li class="menu-item">
-												<a href="">SERVICES</a>
+												<a href="">Services</a>
 
 												<!-- submenu -->
-												<ul class="sub-menu"  style="width: 150px">
+												<ul class="sub-menu"  style="width: 250px">
 													<li class="menu-item">
 														<a href="{{url('best-top-price-for-software-and-website-development-design-company-hosting-pricing-digital-web-design-agency')}}">Web Development And Design</a>
 													</li>
 													<li class="menu-item">
-														<a href="{url('best-top-mobile-app-marketing-advertising-company-top-ios-app-development-company')}}">Mobile App</a>
+														<a href="{{url('best-top-mobile-app-marketing-advertising-company-top-ios-app-development-company')}}">Mobile App</a>
 													</li>
+
+
+
 													<li class="menu-item">
 														<a href="{{url('best-top-social-media-management-services-company-pricing-manage-multiple-social-media-accounts')}}">Social Media Management</a>
 													</li>
 													<li class="menu-item">
-														<a href="{url('best-top-online-marketing-company-facebook-google-display-network-ad-marketing-solutions')}}">Online Marketing</a>
+														<a href="{{url('best-top-online-marketing-company-facebook-google-display-network-ad-marketing-solutions')}}">Online Marketing</a>
 													<!-- 	<ul class="sub-menu">
 															<li class="menu-item">
 																<a href="careers.html">Page 1</a>
@@ -567,7 +546,7 @@
 													</li>
 
 													<li class="menu-item">
-														<a href="">Data Store</a>
+														<a href="{{url('data-store-in-best-top-digital-marketing-company-largest-social-media-online-marketing-agency')}}">Data Store</a>
 													</li>
 													<li class="menu-item">
 														<a href="{{url('best-top-lead-generation-marketing-advertising-company-twitter-ads-ideas')}}">Leads Generation</a>
@@ -576,45 +555,9 @@
 												<!-- /submenu -->
 
 											</li>
-											<li class="menu-item">
-												<a href="careers.html">CAREERS</a>
-
-												<!-- submenu -->
-												<!-- <ul class="sub-menu">
-													<li class="menu-item">
-														<a href="careers.html">Page 1</a>
-													</li>
-													<li class="menu-item">
-														<a href="careers.html">Page 2</a>
-													</li>
-													<li class="menu-item menu-item-has-children">
-														<a href="careers.html">Page 3</a>
-														<ul class="sub-menu">
-															<li class="menu-item">
-																<a href="careers.html">Page 1</a>
-															</li>
-															<li class="menu-item menu-item-has-children">
-																<a href="careers.html">Page 2</a>
-																<ul class="sub-menu">
-																	<li class="menu-item">
-																		<a href="careers.html">Page 1</a>
-																	</li>
-																	<li class="menu-item">
-																		<a href="careers.html">Page 2</a>
-																	</li>
-																</ul>
-															</li>
-														</ul>
-													</li>
-													<li class="menu-item">
-														<a href="careers.html">Page 4</a>
-													</li>
-												</ul> -->
-												<!-- /submenu -->
-
-											</li>
+											
 											<li class="menu-item -mega">
-												<a href="contacts.html">CONTACT US</a>
+												<a href="{{url('best-top-digital-marketing-company-largest-social-media-online-marketing-agency')}}">Contact Us</a>
 											</li>
 										</ul>
 									</nav>
@@ -679,8 +622,8 @@
 										<p class="footer_contacts--item_text">
 											<b>
 											<i class="bi_com-phone"></i>
-											0 (855) 233-5385
-										</b> Monday - Friday, 8am - 7pm
+											2 01026639985
+										</b> Sunday - thursday, 9am - 6pm
 										</p>
 									</div>
 								</div>
@@ -688,12 +631,7 @@
 							<div class="col-sm-4">
 								<div class="footer_contacts--item">
 									<div class="footer_contacts--item_wrap -center">
-										<p class="footer_contacts--item_text">
-											<b>
-											<i class="bi_com-email"></i>
-											info@seocompany.com
-										</b> Drop us a line anytime!
-										</p>
+										
 									</div>
 								</div>
 							</div>
@@ -702,9 +640,9 @@
 									<div class="footer_contacts--item_wrap -right">
 										<p class="footer_contacts--item_text">
 											<b>
-											<i class="bi_com-broadcast-a"></i>
-											Request a quote
-										</b> Get all the information
+											<i class="bi_com-email"></i>
+											support@daleel.com.eg
+										</b> Drop us a line anytime!
 										</p>
 									</div>
 								</div>
@@ -724,44 +662,44 @@
 										<div class="footer_main--column"><strong class="footer_main--column_title">About Us</strong>
 											<div class="footer_about">
 												<p class="footer_about--text">
-													From logo design to video animation, web development to website copy; expert designers, developers and digital talent are ready to complete projects.
+													we help ambitious organisations plan, design and develop high performance websites and online workflow system to maximise growth and profitability
 												</p>
 												<p class="footer_about--text">
-													Learn creative and technical skills with Envato free tutorials. Try it for free only this weekend.
+													
 												</p>
 											</div>
 										</div>
 									</div>
 									<div class="col-lg-3 col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-										<div class="footer_main--column"><strong class="footer_main--column_title">Latest Blog Posts</strong>
+										<div class="footer_main--column"><strong class="footer_main--column_title">Our Solutions</strong>
 											<ul class="footer_navigation">
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Start your own agency</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">How to cool down quickly</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Make something awesome</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Plan your summer vacation</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">There is sunlight to enjoy</a></li>
+												<li class="footer_navigation--item"><a href="{{url('best-top-price-for-software-and-website-development-design-company-hosting-pricing-digital-web-design-agency')}}" class="footer_navigation--link">Web Development And Design</a></li>
+												<li class="footer_navigation--item"><a href="{{url('best-top-mobile-app-marketing-advertising-company-top-ios-app-development-company')}}" class="footer_navigation--link">Mobile App</a></li>
+												<li class="footer_navigation--item"><a href="{{url('best-top-social-media-management-services-company-pricing-manage-multiple-social-media-accounts')}}" class="footer_navigation--link">Social Media Management</a></li>
+												<li class="footer_navigation--item"><a href="{{url('best-top-online-marketing-company-facebook-google-display-network-ad-marketing-solutions')}}" class="footer_navigation--link">Online Marketing</a></li>
+												
 											</ul>
 										</div>
 									</div>
 									<div class="clearfix visible-sm-block"></div>
 									<div class="col-lg-3 col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
-										<div class="footer_main--column"><strong class="footer_main--column_title">Our Projects</strong>
+										<div class="footer_main--column"><strong class="footer_main--column_title">others</strong>
 											<ul class="footer_navigation">
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Go get an ice-cream</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Become the best version</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Eat, sleep and have fun</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Start the journey to the top</a></li>
-												<li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Can you do this for us?</a></li>
+												<li class="footer_navigation--item"><a href="{{url('top-best-search-engine-optimization-company-white-hat-seo-company-local-seo-marketing-company-pricing')}}" class="footer_navigation--link">Search Engine Optimization</a></li>
+												<li class="footer_navigation--item"><a href="{{url('best-online-shoe-buy-jewelry-fabric-clothing-glasses-store-shopping')}}" class="footer_navigation--link">Online Store</a></li>
+												<li class="footer_navigation--item"><a href="{{url('data-store-in-best-top-digital-marketing-company-largest-social-media-online-marketing-agency')}}" class="footer_navigation--link">Data Store</a></li>
+												<li class="footer_navigation--item"><a href="{{url('best-top-lead-generation-marketing-advertising-company-twitter-ads-ideas')}}" class="footer_navigation--link">Leads Generation</a></li>
+												<!-- <li class="footer_navigation--item"><a href="#" class="footer_navigation--link">Can you do this for us?</a></li> -->
 											</ul>
 										</div>
 									</div>
 									<div class="col-lg-3 col-md-6 col-md-offset-0 col-sm-6 col-sm-offset-0 col-xs-10 col-xs-offset-1">
 										<div class="footer_main--column"><strong class="footer_main--column_title">Contact Info</strong>
 											<ul class="footer_contact_info">
-												<li class="footer_contact_info--item"><i class="bi_com-phone"></i><span>Call Us  0 (855) 233-5385</span></li>
-												<li class="footer_contact_info--item"><i class="bi_com-email"></i><span>info@financed.com</span></li>
-												<li class="footer_contact_info--item"><i class="bi_location-alt-pin"></i><span>425 1st Street, San Francisco, California, USA</span></li>
-												<li class="footer_contact_info--item"><i class="bi_time-clock-a"></i><span>Monday - Friday, 9am - 6 pm; Sunday closed</span></li>
+												<li class="footer_contact_info--item"><i class="bi_com-phone"></i><span>Call Us  2 01026639985</span></li>
+												<li class="footer_contact_info--item"><i class="bi_com-email"></i><span>support@daleel.com.eg</span></li>
+												<li class="footer_contact_info--item"><i class="bi_location-alt-pin"></i><span>2 Khaled Ibn El Waleed Infront of Radio Shack store- Second Floor - Apartment 22 ,Sheraton Heliopolis, Cairo, Egypt</span></li>
+												<li class="footer_contact_info--item"><i class="bi_time-clock-a"></i><span>Sunday - thursday, 9am - 6pm</span></li>
 											</ul>
 										</div>
 									</div>
@@ -773,13 +711,13 @@
 										<div class="col-sm-6 col-xs-12">
 											<div class="footer_copyrights--item">
 												<div class="footer_copyrights--logo">
-													<a href="#"><img src="{!!asset('assets/images/design/logo-footer.png')!!}" alt="" style="width: 190px" /></a>
+													<a href="{{url('/')}}"><img src="{!!asset('assets/images/Daleel.png')!!}" alt="daleel digital marketing solutions agency" style="width:130px;"></a>
 												</div>
 											</div>
 										</div>
 										<div class="col-sm-6 col-xs-12">
 											<div class="footer_copyrights--item">
-												<p class="footer_copyrights--item_copyrights">SEO Theme ©2015. All Rights Reserved.</p>
+												<p class="footer_copyrights--item_copyrights">Daleel ©2017. All Rights Reserved.</p>
 											</div>
 										</div>
 									</div>
@@ -857,13 +795,13 @@
 			<li class="topbar_contacts--item">
 				<span class="contact_phone">
 				<i class="bi_com-phone"></i>
-				0 (855) 233-5385
+				2 01026639985
 			</span>
 			</li>
 			<li class="topbar_contacts--item">
 				<span class="contact_email">
 				<i class="bi_com-email"></i>
-				info@seocompany.com
+				support@daleel.com.eg
 			</span>
 			</li>
 		</ul>
@@ -875,52 +813,52 @@
 				<ul>
 
 					<li>
-						<a href="#">
+						<a href="https://www.facebook.com/Daleel.DM/">
 							<i class="fa fa-facebook"></i>
 						</a>
 					</li>
 
 					<li>
-						<a href="#">
+						<a href="https://twitter.com/DaleelSolutions">
 							<i class="fa fa-twitter"></i>
 						</a>
 					</li>
 
 					<li>
-						<a href="#">
+						<a href="https://plus.google.com/u/0/+DaleelEg-Marketing">
 							<i class="fa fa-google-plus"></i>
 						</a>
 					</li>
 
-					<li>
+					<!-- <li>
 						<a href="#">
 							<i class="fa fa-pinterest"></i>
 						</a>
-					</li>
+					</li> -->
 
-					<li>
+					<!-- <li>
 						<a href="#">
 							<i class="fa fa-instagram"></i>
 						</a>
-					</li>
+					</li> -->
 
 					<li>
-						<a href="#">
+						<a href="https://www.linkedin.com/company-beta/3505747/">
 							<i class="fa fa-linkedin"></i>
 						</a>
 					</li>
 
-					<li>
+					<!-- <li>
 						<a href="#">
 							<i class="fa fa-youtube-play"></i>
 						</a>
-					</li>
+					</li> -->
 
-					<li>
+					<!-- <li>
 						<a href="#">
 							<i class="fa fa-rss"></i>
 						</a>
-					</li>
+					</li> -->
 
 				</ul>
 			</dd>

@@ -19,7 +19,7 @@
 
 							<div class="col-sm-5 col-sm-push-7 col-sm-offset-0 col-xs-8 col-xs-offset-2">
 								<div class="page_banner--image">
-									<img src="assets/images/design/page_banner/page_banner-2.png" style="width: 371px" alt="">
+									<img src="assets/images/design/page_banner/page_banner-2.png" style="width: 371px" alt="online marketing advertising company for facebook marketing solutions and google adwords search and display network  with successful marketing campaigns">
 								</div>
 							</div>
 
@@ -51,7 +51,7 @@
 							<div class="row">
 								<div class="col-md-5 col-md-push-7 col-md-offset-0 col-xs-6 col-xs-offset-3">
 									<div class="features--picture">
-										<img src="assets/images/design/grouped/sun-half.png" alt="">
+										<img src="assets/images/design/grouped/sun-half.png" alt="pay per click marketing management company -online marketing services company for facebook and twitter marketing solutions">
 									</div>
 								</div>
 								<div class="col-md-7 col-md-pull-5 col-xs-12">
@@ -110,7 +110,7 @@
 										<div class="card -colored block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #0079c3">
-													<img src="assets/images/tw.png" style="width: 112px" alt="">
+													<img src="assets/images/tw.png" style="width: 112px" alt="daleel online marketing digital solutions agency for best twitter ad campaign">
 												</figure>
 												<div class="card--content" style="background-color: #0068a8">
 													<h3 class="card--title title -small">Twitter Ads campaign</h3>
@@ -138,7 +138,7 @@
 										<div class="card -colored block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #61d484">
-													<img src="assets/images/fa.png" style="width: 112px" alt="">
+													<img src="assets/images/fa.png" style="width: 112px" alt="best facebook twitter instagram ad campaign google awards">
 												</figure>
 												<div class="card--content" style="background-color: #56ba74">
 													<h3 class="card--title title -small">Facebook Ad Campaign</h3>
@@ -166,7 +166,7 @@
 										<div class="card -colored block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #0079c3">
-													<img src="assets/images/g.png" style="width: 112px" alt="">
+													<img src="assets/images/g.png" style="width: 112px" alt="daleel online digital marketing solutions agency for social network search engine google - google search and display network">
 												</figure>
 												<div class="card--content" style="background-color: #0068a8">
 													<h3 class="card--title title -small">Google Search Network</h3>
@@ -194,7 +194,7 @@
 										<div class="card -colored block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #fcac0f">
-													<img src="assets/images/g.png" style="width: 112px" alt="">
+													<img src="assets/images/g.png" style="width: 112px" alt="daleel online digital marketing solutions agency for social network search engine google - google search and display network">
 												</figure>
 												<div class="card--content" style="background-color: #e39c0e">
 													<h3 class="card--title title -small">Googlr Display Network</h3>
@@ -222,7 +222,7 @@
 										<div class="card -colored block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #0079c3">
-													<img src="assets/images/in.png" style="width: 112px" alt="">
+													<img src="assets/images/in.png" style="width: 112px" alt="daleel online digital marketing solutions agency for buy best video instagram ads cost pricing-facebook instagram ads-adding photos to instagram">
 												</figure>
 												<div class="card--content" style="background-color: #0068a8">
 													<h3 class="card--title title -small">Ads on Instagram</h3>
@@ -250,7 +250,7 @@
 										<div class="card -colored block -border_double">
 											<div class="block--wrap">
 												<figure class="card--image" style="background: #ff74b1">
-													<img src="assets/images/y.png" style="width: 112px" alt="">
+													<img src="assets/images/y.png" style="width: 112px" alt="daleel online digital marketing solutions agency for youtube advertising cost-best top online marketing company facebook google display network ad marketing solutions">
 												</figure>
 												<div class="card--content" style="background-color: #e6679e">
 													<h3 class="card--title title -small">YouTube Advertising</h3>

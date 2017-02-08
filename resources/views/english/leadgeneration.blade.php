@@ -19,11 +19,11 @@
 
 							<div class="col-sm-5 col-sm-push-7 col-sm-offset-0 col-xs-8 col-xs-offset-2">
 								<div class="page_banner--image">
-									<img src="assets/images/design/page_banner/page_banner-2.png" style="width: 371px" alt="">
+									<img src="assets/images/design/page_banner/page_banner-2.png" style="width: 371px" alt="lead generation b2b twitter ads ideas marketing advertising company">
 								</div>
 							</div>
 
-							<div class="col-sm-7 col-sm-pull-5 col-xs-12 ">
+										<div class="col-sm-7 col-sm-pull-5 col-xs-12 ">
 								<div class="page_banner--content">
 									<h2 class="page_banner--title">
 										<b></b> Lead Generation Solution
